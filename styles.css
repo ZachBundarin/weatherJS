@@ -1,0 +1,40 @@
+body {
+   font-family: Helvetica, sans-serif;
+   color: #1e1e1e;
+   background-color: #4a90e2;
+}
+
+#weather-input div {
+   padding-bottom: 8px;
+}
+
+.hidden {
+   display: none;
+}
+
+.error-msg {
+   color: darkred;
+}
+
+table {
+   margin-bottom: 15px;
+}
+
+table caption {
+   font-weight: bold;
+}
+
+table td {
+   text-align: center;
+   padding: 3px 8px;
+}
+
+h2{
+    position: relative;
+    left: 90px;
+}
+
+#compareBtn {
+    position: relative;
+    left: 90px;
+}
